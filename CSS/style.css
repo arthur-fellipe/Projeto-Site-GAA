@@ -1,0 +1,94 @@
+
+.navbar, .bg-footer, .navbar-nav {
+    background-color: #585858;
+    padding: 30px;
+    text-align: center;
+    color: white;
+}
+
+.navbar {
+    padding-left: 150px;
+}
+
+.Escritorio {
+    padding-top: 40px;
+    padding-bottom: 30px;
+    background-color: #BDBDBD;
+    text-align: justify;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+.escritorio-title {
+    padding-bottom: 30px;
+    font-family: fantasy;
+    color: #424242;
+    text-align: center;
+}
+
+.foto-escritorio {
+    padding-bottom: 40px;
+}
+
+.rounded-circle {
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.Equipe {
+    padding-top: 40px;
+    padding-bottom: 30px;
+    background-color: #BDBDBD;
+    text-align: justify;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.membro {
+    font-size: larger;
+    font-weight: bold;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.cargo  {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.Atuação {
+    padding-top: 40px;
+    padding-bottom: 30px;
+    background-color: #BDBDBD;
+    text-align: justify;
+    padding-left: 200px;
+    padding-right: 200px;
+}    
+
+.areas {
+    padding-top: 15px;
+    text-align: justify;
+}
+
+.areas-title {
+    text-align: center;
+    padding-top: 25px;
+}
+
+.Contato {
+    padding-top: 40px;
+    padding-bottom: 50px;
+    background-color: #BDBDBD;
+    text-align: justify;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.logos {
+    width: 60px;
+    height: 60px;
+}
+
+.Escritorio, .Equipe, .Atuação, .Contato {
+    border: #424242, solid, 5px;
+}
